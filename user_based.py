@@ -5,10 +5,10 @@ import tweepy
 import json
 
 #Twitter API credentials
-CONSUMER_KEY = "F274aHTZLo8bV16Uyyg84u4YR"
-CONSUMER_SECRET = "CfVkXSX9vlCNU3Hw6o4taoYLJp7ak455ysiWiNrVjU5woTraVf"
-ACCESS_TOKEN = "1054851582511190017-BTuFbbgqcOlGdhfNY4Vdc2fPCz09kM"
-ACCESS_TOKEN_SECRET = "MpgogR4p9Fatea10lNVXipzIFVCukcNX7IegTu7lfMwWD"
+CONSUMER_KEY = ""
+CONSUMER_SECRET = ""
+ACCESS_TOKEN = ""
+ACCESS_TOKEN_SECRET = ""
 
 
 class TwitterHarvester(object):
