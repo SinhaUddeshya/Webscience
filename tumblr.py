@@ -12,10 +12,7 @@ import matplotlib.pyplot as plt
 MONGO_HOST= 'mongodb://localhost/tumblr_db'
 # Make the request
 client = pytumblr.TumblrRestClient(
-  '8dNjRe7UGCRSHZMHRJY2Bc9cOcNvtOpyCkntJGfAKYGGLsG897',
-  'slJqJvPilKdw5BxkstKTsZxnlUOdGAOGseLBG3ILrIxagJEjbZ',
-  'aZKidqlJ8KVnxZS4lQWEBmFDSjpNYoejdSK52NGFd49naLnP2q',
-  '8BKPqn5yqV844JLR9sXgTQkh5L6xUNTyWOrG9EigA213X4UCbi'
+  API KEYS
 )
 
 
